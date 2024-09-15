@@ -4,6 +4,12 @@ It is a web application that allows users to view a list of profiles and interac
 
 # How to run the project ?
 
-- Clone the repository or download the zip file and extract it.
-- 
+- Clone the repository by git clone 
+- Navigate to project directory with cd project-atlas
+- Split the terminal and type cd backend on one terminal and cd frontend on other terminal.
+- On backend terminal :
+   - node server.js
+- On frontend terminal :
+   - npm start 
+     
 
