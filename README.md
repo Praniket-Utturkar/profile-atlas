@@ -12,4 +12,6 @@ It is a web application that allows users to view a list of profiles and interac
 - On frontend terminal :
    - npm start 
      
-
+## Admin Login Credentials -
+ - Username - admin
+ - Password - admin123 
